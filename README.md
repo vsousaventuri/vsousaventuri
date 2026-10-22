@@ -1,23 +1,28 @@
-<img src="./assets/banner.svg" width="100%" alt="Victor Faria de Sousa — Data Engineer · Data Architecture · AI-assisted engineering"/>
-
-<div align="center">
+<img src="./assets/banner.svg" width="100%" alt="Victor Faria de Sousa — Data Engineer · Data Architecture · AI engineering"/>
 
 <br/>
 
-<img src="./assets/ticker.svg" width="760" alt="Building data platforms since 2018 · BigQuery lakehouses · Venturi · Claude Code"/>
+<p align="center">
+  <b>Victor Faria de Sousa</b> — Data Engineer since 2018 · GCP / BigQuery lakehouses, data quality and AI-assisted engineering · co-founder of <a href="https://github.com/Venturi-Tech">Venturi</a>
+  <br/>
+  Open to <b>Senior Data Engineer</b>, <b>Tech Lead</b> and <b>Data Architect</b> roles · remote · Brasília, Brazil · PT / EN
+</p>
 
-<br/><br/>
-
-![Class](https://img.shields.io/badge/CLASS-DATA_ENGINEER-FCEE0A?style=for-the-badge&labelColor=0a0a0a)
-![Base](https://img.shields.io/badge/BASE-BSB--DF_·_REMOTE-FCEE0A?style=for-the-badge&labelColor=0a0a0a)
-![Est](https://img.shields.io/badge/EST.-2018-FCEE0A?style=for-the-badge&labelColor=0a0a0a)
-![Lang](https://img.shields.io/badge/LANG-PT_·_EN-FCEE0A?style=for-the-badge&labelColor=0a0a0a)
-
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/ticker.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="./assets/ticker-light.svg"/>
+    <img src="./assets/ticker.svg" width="760" alt="Building data platforms since 2018 · BigQuery lakehouses · Venturi · Claude Code"/>
+  </picture>
+</p>
 
 <br/>
 
-<img src="./assets/h01.svg" width="100%" alt="01 — whoami"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h01.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h01-light.svg"/>
+  <img src="./assets/h01.svg" width="100%" alt="01 — whoami"/>
+</picture>
 
 ```sql
 -- whoami
@@ -32,7 +37,11 @@ SELECT * FROM gold.engineers WHERE handle = 'vsousaventuri';
 -- (1 row)
 ```
 
-<img src="./assets/h02.svg" width="100%" alt="02 — What I work on"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h02.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h02-light.svg"/>
+  <img src="./assets/h02.svg" width="100%" alt="02 — What I work on"/>
+</picture>
 
 <table>
   <tr>
@@ -57,19 +66,31 @@ SELECT * FROM gold.engineers WHERE handle = 'vsousaventuri';
   </tr>
 </table>
 
-<img src="./assets/h03.svg" width="100%" alt="03 — Currently building"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h03.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h03-light.svg"/>
+  <img src="./assets/h03.svg" width="100%" alt="03 — Currently building"/>
+</picture>
 
 > **[Venturi](https://github.com/Venturi-Tech)** — co-founder.
 > We turn aerial drone imagery into a technical pre-analysis of building pathologies for the construction sector.
 > I take care of the data side: metadata extraction, image processing pipelines and the datasets behind the vision models.
 
-<img src="./assets/h04.svg" width="100%" alt="04 — Beyond pipelines"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h04.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h04-light.svg"/>
+  <img src="./assets/h04.svg" width="100%" alt="04 — Beyond pipelines"/>
+</picture>
 
 - 🗳️ Authorized investigator in the **Public Security Test of the Brazilian electronic voting system** (TSE, 2017–2021)
 - 🔑 Background in cryptography and information security
 - 🛸 Drone pilot and aerial photographer
 
-<img src="./assets/h05.svg" width="100%" alt="05 — Tech stack"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h05.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h05-light.svg"/>
+  <img src="./assets/h05.svg" width="100%" alt="05 — Tech stack"/>
+</picture>
 
 <div align="center">
 
@@ -97,7 +118,11 @@ SELECT * FROM gold.engineers WHERE handle = 'vsousaventuri';
 
 </div>
 
-<img src="./assets/h06.svg" width="100%" alt="06 — Connect"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/h06.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/h06-light.svg"/>
+  <img src="./assets/h06.svg" width="100%" alt="06 — Connect"/>
+</picture>
 
 <div align="center">
 
