@@ -92,31 +92,11 @@ SELECT * FROM gold.engineers WHERE handle = 'vsousaventuri';
   <img src="./assets/h05.svg" width="100%" alt="05 — Tech stack"/>
 </picture>
 
-<div align="center">
-
-**Languages & processing**<br/>
-![Python](https://img.shields.io/badge/Python-FCEE0A?style=for-the-badge&logo=python&logoColor=0a0a0a)
-![SQL](https://img.shields.io/badge/SQL-FCEE0A?style=for-the-badge&logo=postgresql&logoColor=0a0a0a)
-![Pandas](https://img.shields.io/badge/Pandas-FCEE0A?style=for-the-badge&logo=pandas&logoColor=0a0a0a)
-![Apache Spark](https://img.shields.io/badge/Spark-FCEE0A?style=for-the-badge&logo=apachespark&logoColor=0a0a0a)
-
-**Cloud & warehouse**<br/>
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-FCEE0A?style=for-the-badge&logo=googlecloud&logoColor=0a0a0a)
-![BigQuery](https://img.shields.io/badge/BigQuery-FCEE0A?style=for-the-badge&logo=googlebigquery&logoColor=0a0a0a)
-![Azure](https://img.shields.io/badge/Azure-FCEE0A?style=for-the-badge)
-![Cloudera](https://img.shields.io/badge/Cloudera-FCEE0A?style=for-the-badge)
-
-**Modeling, orchestration & BI**<br/>
-![Dataform](https://img.shields.io/badge/Dataform-FCEE0A?style=for-the-badge)
-![Apache Airflow](https://img.shields.io/badge/Airflow-FCEE0A?style=for-the-badge&logo=apacheairflow&logoColor=0a0a0a)
-![Looker](https://img.shields.io/badge/Looker-FCEE0A?style=for-the-badge&logo=looker&logoColor=0a0a0a)
-
-**Engineering & AI**<br/>
-![Git](https://img.shields.io/badge/Git-FCEE0A?style=for-the-badge&logo=git&logoColor=0a0a0a)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-FCEE0A?style=for-the-badge&logo=githubactions&logoColor=0a0a0a)
-![Claude](https://img.shields.io/badge/Claude-FCEE0A?style=for-the-badge&logo=claude&logoColor=0a0a0a)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg"/>
+  <img src="./assets/stack.svg" width="100%" alt="Tech stack — Cloud &amp; Platforms: Google Cloud, BigQuery, Cloud Composer, Dataform, Cloud Storage, Databricks, Cloudera, Azure, AWS | Orchestration &amp; Etl: Airflow, dbt, Spark / PySpark, Data Factory, SSIS, Jenkins, GitHub Actions | Languages &amp; Modeling: SQL / T-SQL, Python, R, Java, dimensional modeling, medallion, data warehousing | Governance &amp; Quality: OpenMetadata, Purview, ADR, schema contracts, data observability, LGPD | Bi &amp; Delivery: Power BI, SAS VA / VI, Streamlit, Git, Azure DevOps, Scrum, Kanban | AI Engineering: Claude Code, MCP, agent skills, pipeline auditing"/>
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/h06.svg"/>
